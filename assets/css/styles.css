@@ -1,0 +1,110 @@
+.nav {
+background-color: green;
+color: white;
+
+}
+
+.grilla {
+    display: flex;
+    justify-content: center;
+}
+
+.margen{
+margin-block: 30px;
+
+}
+
+.font{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 20px;
+text-align:justify;
+}
+
+.gap {
+        display: flex;
+   gap: 20px; /* Espacio de 20px entre cajas */
+ }
+
+ .padding {
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 12px;
+}
+
+
+.line {
+    width: 249px;
+    height: px;
+    border-bottom: 1px solid rgb(189, 183, 183); /* Línea de 2px de ancho en la parte inferior */
+  }
+
+  .price {
+display: flex;
+justify-content:right;
+align-items: center;
+}
+  
+.pa {
+    padding: 10px; /* Relleno de 10px alrededor de la caja */
+  }
+
+  .pa1 {
+    padding-right: 5px;
+  }
+  
+  .pa2 {
+
+padding-left: 5px;
+
+}
+h3 {
+color: #28A745;
+opacity: 100%;
+}
+
+.nav {
+justify-content: right;
+
+}
+
+.colorlink{
+color: white;
+}
+
+.email{
+background-color: #28A745;
+width: 950px;
+height: 200px;
+text-align: center;
+}
+
+.reci{
+align-items: center;
+justify-content: center;
+display: flex;
+border-radius: 10%;
+
+}
+
+.cupon  {
+font-display:flex;
+align-items: center;
+justify-content: center;
+}
+
+h4 {
+    font-display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fin {
+display: flex;
+justify-content: center;
+}
+
+h5{
+    font-family: 'Belanosima', sans-serif;
+    font-size: 20pt;
+    font-family: 'Roboto', sans-serif;
+}
